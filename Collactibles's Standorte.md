@@ -4,7 +4,7 @@
 3) -520 / 133 / 296  [in einer kleinen Höhle] ✅
 4) -561 / 141 / 195  [außen am Turm das Jump and run ] ✅
 5) -615 / 118 / 143   ✅
-6) .
+6) -705 / 112 /140 ✅
 7) .
 8) .
 9) .
