@@ -1,9 +1,9 @@
 **Eissee:**
-1) -544 / 93 / 301
-2) -576 / 103 / 253
-3) -520 / 133 / 296
-4) -561 / 141 / 195
-5) -615 / 118 / 143
+1) -544 / 93 / 301   [unten durchtauchen] ✅
+2) -576 / 103 / 253  [durch das wrack tauchen] ✅
+3) -520 / 133 / 296  [in einer kleinen Höhle] ✅
+4) -561 / 141 / 195  [außen am Turm das Jump and run ] ✅
+5) -615 / 118 / 143   ✅
 6) .
 7) .
 8) .
