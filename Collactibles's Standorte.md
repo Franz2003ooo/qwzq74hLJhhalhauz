@@ -13,7 +13,7 @@ mann muss folgende lampen aktivieren:
     3)-594 / 109 / 133 [Felsspalt]
    --> -596 / 109 / 134  öffnet sich ein Loch 
 9) -563 / 122 /312 [durch rauch markierten powdersnow] ✅
-10) 
+10) -603  168  298 [über die Eiskugeln schweben]
  .
 
 **Grottensee:**
