@@ -5,10 +5,16 @@
 4) -561 / 141 / 195  [außen am Turm das Jump and run ] ✅
 5) -615 / 118 / 143   ✅
 6) -705 / 112 /140 ✅
-7) .
-8) .
-9) .
-10) .
+7) -587 / 104 / 134 [durch den powder snow ] ✅
+8) -597 / 102 / 136: ✅
+mann muss folgende lampen aktivieren:
+    1)-619 / 110 / 152
+    2)-603 / 109 / 162 [im Fenster versteckt]
+    3)-594 / 109 / 133 [Felsspalt]
+   --> -596 / 109 / 134  öffnet sich ein Loch 
+9) -563 / 122 /312 [durch rauch markierten powdersnow]
+10) 
+ .
 
 **Grottensee:**
 1) -1015 / 122 / 99
@@ -25,7 +31,7 @@
 **Sumpfsee:**
 1) -505 / 132 / -205  ✅
 2) -680 / 113 / -200  [durch den Mund v. Baum]       ✅
-3) .
+3) -503 / 107 / 3 ✅
 4) .
 5) .
 6) .
@@ -41,7 +47,7 @@
 4) -844 / 106 / -76  ✅
 5) -901 / 136 / -118 ✅
 6) -941 / 123 / -96 [kerzen jump and run ]
-7) .
+7) -912 /202 / -229 ✅
 8) .
 9) .
 10) .
