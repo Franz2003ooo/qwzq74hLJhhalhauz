@@ -12,7 +12,7 @@ mann muss folgende lampen aktivieren:
     2)-603 / 109 / 162 [im Fenster versteckt]
     3)-594 / 109 / 133 [Felsspalt]
    --> -596 / 109 / 134  öffnet sich ein Loch 
-9) -563 / 122 /312 [durch rauch markierten powdersnow]
+9) -563 / 122 /312 [durch rauch markierten powdersnow] ✅
 10) 
  .
 
@@ -32,13 +32,14 @@ mann muss folgende lampen aktivieren:
 1) -505 / 132 / -205  ✅
 2) -680 / 113 / -200  [durch den Mund v. Baum]       ✅
 3) -503 / 107 / 3 ✅
-4) .
-5) .
-6) .
-7) .
-8) .
-9) .
-10) .
+4) -482 / 124 / -142 [auf den Zieblock stellen ] ✅
+5) -524 / 104 / -151 [unten n die spinne tauchen ] ✅
+6) -612 / 109 / -113 [v unten das jump and run rein machen ] ✅
+7) -515 / 117 / -66 ✅
+8) -523 / 90 / -14 [ducrh die wasseruinen tauchen ] ✅
+9) -421 / 143 / 3 [linkes auge vom Totenkopf] ✅
+10) drücke bei -499 / 136 /-192 den knopf [im haus mit den beinen]
+    -->gehe dann zu -447 / 114/-108 ✅
 
 **Lavasee:**
 1) -749 / 120 / -40  ✅
