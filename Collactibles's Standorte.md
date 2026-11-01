@@ -44,15 +44,20 @@ mann muss folgende lampen aktivieren:
 **Lavasee:**
 1) -749 / 120 / -40  ✅
 2) -800 / 108 / -69  ✅
-3) -1005 / 112 / -30
+3) -900 / 112 / -151:       ✅
+    Frage1: Halloween
+    Frage2:Nightmare on ...
+    Frage3: Jason Voorhees
+    Frage4: Jigsaw
+    Frage5:Pinehead
+    Frage 6:Pennywise
 4) -844 / 106 / -76  ✅
 5) -901 / 136 / -118 ✅
-6) -941 / 123 / -96 [kerzen jump and run ]
+6) -941 / 123 / -96 --> bei -950 / 112 /-92 ist eine geheimtür] ✅
 7) -912 /202 / -229 ✅
-8) .
-9) .
-10) .
-11) .
+8) -1003 / 112 / -28 ✅
+9) -788 / 116 / -97 [durch die Koralen tauchen ] ✅
+10) -864 / 140 / -301 ✅
 12) .
-    
+13) .
 
